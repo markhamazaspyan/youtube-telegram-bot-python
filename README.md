@@ -2,6 +2,10 @@
 Creating a bot that given a youtube link downloads it and uploads to telegram channel
 
 
+### Setup
+pip install -r requirements.txt
+
+
 ### Functions
 
 /ytsearch: works as a search like youtube search. Given the keywords finds the first 10 videos in youtube and gives the links. 
